@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hk450203@gmail.com**
 
-- 📄 Know about my experiences [Resume](www.google.com)
+- 📄 Know about my experiences here is my [Resume](www.google.com)
 
 - ⚡ Fun fact **I am a Fast Learner**
 
