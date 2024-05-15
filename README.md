@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **"GoDot"**
 
-- 👨‍💻 All of my projects are available at [Portfolio](www.facebook.com)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://hemanthq.github.io/)
 
 - 📫 How to reach me **hk450203@gmail.com**
 
