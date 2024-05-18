@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hk450203@gmail.com**
 
-- 📄 Know about my experiences here is my [Resume](www.google.com)
+- 📄 Know about my experiences here is my [Resume](https://github.com/hemantHQ/hemantHQ/blob/e61a333ba2a836aaef4f4f5c2f3d66da092510b0/resume.pdf)
 
 - ⚡ Fun fact **I am a Fast Learner**
 
