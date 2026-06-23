@@ -19,8 +19,8 @@
 <a href="https://discordapp.com/users/hemant2199" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="hemant2199" /></a>
 <a href="https://www.reddit.com/user/Meow_Woof420/" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Hemant7860" /></a> 
 <a href="https://t.me/HARAME420" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="HARAME420" /></a>
-<a href="https://www.instagram.com/hemantk7020/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="hemantk7020" /></a> 
-<a href="https://twitter.com/Hk7020Gamer" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Hk7020Gamer" /></a> 
+<a href="https://www.instagram.com/hemant.exe/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="hemantk7020" /></a> 
+<a href="https://twitter.com/hemantjpeg" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="hemantjpeg" /></a> 
 </p>
 
 
@@ -44,4 +44,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthq&show_icons=true&theme=dark&title_color=ca4e4e&text_color=dedede&locale=en&layout=compact" alt="hemanthq" /></p><br><br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthq&show_icons=true&theme=tokyonight&title_color=2b72e3&text_color=ffffff&locale=en" alt="hemanthq" /></p>
